@@ -116,4 +116,3 @@ occupancy_rate['Inc Total Annual Turnover'] = (total_revenue['total_revenue'] / 
 
 ---
 
-This `README.md` provides a clear description of the project, its objectives, installation steps, and an outline of the data analysis steps performed, along with code snippets for better understanding. You can place this file in your GitHub repository to give others a comprehensive overview of your project. ```
